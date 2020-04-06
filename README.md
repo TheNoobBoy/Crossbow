@@ -1,5 +1,5 @@
 # Crossbow
-While waiting for pmmp to implement this. You can use this -.-
+You can use this while waiting for pmmp to implement this -.-
 
 ## How to Install?
 1) Download devtools
