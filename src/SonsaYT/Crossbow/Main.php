@@ -12,7 +12,7 @@ use pocketmine\item\ItemFactory;
 class Main extends PluginBase {
 
     public function onEnable() {
-		ItemFactory::registerItem(new Crossbow());
+		ItemFactory::registerItem(new Crossbow(), true);
 		Item::initCreativeItems();
     }
 	
