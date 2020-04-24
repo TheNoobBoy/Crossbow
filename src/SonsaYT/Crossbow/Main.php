@@ -1,8 +1,8 @@
 <?php
 
-namespace SonsaYT\Crossbow;
+namespace TheNoobBoyYT\Kruisboog;
 
-use SonsaYT\Crossbow\item\Crossbow;
+use TheNoobBoyYT\Kruisboog\item\Crossbow;
 
 use pocketmine\plugin\PluginBase;
 
